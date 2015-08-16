@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings" />
+
+</menu><!-- From: file:/mnt/F0C8DDCBC8DD8FE8/Nikhil/Savefiles/Downloads/CSE%2014/DS%20CSE586/CSE586DS/GroupMessenger2/app/src/main/res/menu/activity_group_messenger.xml -->
